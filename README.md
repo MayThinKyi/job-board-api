@@ -4,18 +4,18 @@ A backend API built with Node.js, Express, and MongoDB for job recruitment opera
 
 ## 🚀 Features
 
-- RESTful API with Express.js  
-- MongoDB database with Mongoose ORM  
-- User authentication with JWT  
-- CRUD operations for job recruitment operations 
-- Pagination, filtering, and search support  
-- Input validation and error handling  
+- RESTful API with Express.js
+- MongoDB database with Mongoose ORM
+- User authentication with JWT
+- CRUD operations for job recruitment operations
+- Pagination, filtering, and search support
+- Input validation and error handling
 
 ## 📋 Prerequisites
 
-- Node.js (v14 or higher)  
-- MongoDB (v4 or higher)  
-- npm or yarn package manager  
+- Node.js (v14 or higher)
+- MongoDB (v4 or higher)
+- npm or yarn package manager
 
 ## 🛠️ Installation
 
@@ -64,26 +64,26 @@ npm start
 
 ## 🗄️ Database Configuration
 
-- The API uses MongoDB with Mongoose  
-- Make sure your MongoDB instance is running  
+- The API uses MongoDB with Mongoose
+- Make sure your MongoDB instance is running
 - Update the `MONGO_URI` in `.env` to connect to your database
 
 ## 🔒 Environment Variables
 
-| Variable   | Description                         | Example                           |
-| ---------- | --------------------------------- | --------------------------------- |
-| MONGO_URI  | MongoDB connection string          | mongodb://localhost/jobboard_db  |
-| PORT       | Port for the API server            | 5000                            |
-| JWT_SECRET | Secret key for JWT authentication  | your_jwt_secret_key              |
+| Variable   | Description                       | Example                         |
+| ---------- | --------------------------------- | ------------------------------- |
+| MONGO_URI  | MongoDB connection string         | mongodb://localhost/jobboard_db |
+| PORT       | Port for the API server           | 5000                            |
+| JWT_SECRET | Secret key for JWT authentication | your_jwt_secret_key             |
 
 ## 🛠️ Tech Stack
 
-- [Node.js](https://nodejs.org/)  
-- [Express.js](https://expressjs.com/)  
-- [MongoDB](https://www.mongodb.com/)  
-- [Mongoose](https://mongoosejs.com/)  
-- [JWT](https://jwt.io/)  
-- [TypeScript](https://www.typescriptlang.org/)    
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [JWT](https://jwt.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 📄 License
 

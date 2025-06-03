@@ -1,0 +1,443 @@
+2025-06-02 20:12:50:1250 [31merror[39m: [31mMONGO_URI is not defined[39m
+2025-06-02 20:14:39:1439 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:15:32:1532 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:15:53:1553 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:16:18:1618 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:16:47:1647 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:17:36:1736 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:18:19:1819 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:18:33:1833 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:19:16:1916 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:20:43:2043 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:20:59:2059 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:21:30:2130 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:22:16:2216 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:22:33:2233 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:22:53:2253 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:23:07:237 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:23:31:2331 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:26:39:2639 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:27:33:2733 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:29:21:2921 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:29:49:2949 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:31:19:3119 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:32:02:322 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:32:43:3243 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:33:28:3328 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:34:02:342 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:34:18:3418 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:34:51:3451 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:35:15:3515 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:35:36:3536 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:35:52:3552 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:37:02:372 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:37:34:3734 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:37:56:3756 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:39:16:3916 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:39:31:3931 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:40:14:4014 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:41:09:419 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:41:27:4127 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:42:03:423 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:42:21:4221 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:42:34:4234 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:42:53:4253 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:44:43:4443 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:45:46:4546 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:46:16:4616 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:47:15:4715 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:47:43:4743 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:48:29:4829 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:49:22:4922 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:49:57:4957 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:50:21:5021 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:50:37:5037 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:51:24:5124 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:52:02:522 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:54:50:5450 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-02 20:54:53:5453 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-02 20:54:56:5456 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "name"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-02 20:57:47:5747 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:58:51:5851 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 20:59:06:596 [31merror[39m: [31mService error at ( createCategory ) => Error: Category already exist[39m
+2025-06-02 20:59:06:596 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 20:59:07:597 [31merror[39m: [31mService error at ( createCategory ) => Error: Category already exist[39m
+2025-06-02 20:59:07:597 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 20:59:08:598 [31merror[39m: [31mService error at ( createCategory ) => Error: Category already exist[39m
+2025-06-02 20:59:08:598 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 20:59:17:5917 [31merror[39m: [31mService error at ( createCategory ) => Error: Category already exist[39m
+2025-06-02 20:59:17:5917 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 20:59:31:5931 [31merror[39m: [31mService error at ( getCategoryById ) => Error: Category not exist[39m
+2025-06-02 20:59:31:5931 [31merror[39m: [31mError occurred: Category not exist[39m
+2025-06-02 21:01:06:16 [31merror[39m: [31mService error at ( deleteCategory ) => Error: Category not exist[39m
+2025-06-02 21:01:06:16 [31merror[39m: [31mError occurred: Category not exist[39m
+2025-06-02 21:01:08:18 [31merror[39m: [31mService error at ( deleteCategory ) => Error: Category not exist[39m
+2025-06-02 21:01:08:18 [31merror[39m: [31mError occurred: Category not exist[39m
+2025-06-02 21:02:31:231 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:02:50:250 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:06:18:618 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:07:16:716 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:07:55:755 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:08:41:841 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:08:55:855 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:26:20:2620 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:27:41:2741 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-02 21:52:19:5219 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:20:5220 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:22:5222 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:26:5226 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:28:5228 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:30:5230 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 21:52:56:5256 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-02 22:22:55:2255 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "name"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-02 22:23:48:2348 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "name"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-02 22:39:56:3956 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:39:56:3956 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:40:39:4039 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:40:39:4039 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:41:09:419 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:41:09:419 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:41:35:4135 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:41:35:4135 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:42:07:427 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:42:07:427 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:42:41:4241 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:42:41:4241 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:43:35:4335 [31merror[39m: [31mService error at ( getAllCategories ) => MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:43:35:4335 [31merror[39m: [31mError occurred: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+2025-06-02 22:49:35:4935 [31merror[39m: [31mService error at ( createCategory ) => Error: Category already exist[39m
+2025-06-02 22:49:35:4935 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 22:50:09:509 [31merror[39m: [31mService error at ( updateCategory ) => Error: Category already exist[39m
+2025-06-02 22:50:09:509 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-02 22:50:11:5011 [31merror[39m: [31mService error at ( updateCategory ) => Error: Category already exist[39m
+2025-06-02 22:50:11:5011 [31merror[39m: [31mError occurred: Category already exist[39m
+2025-06-03 12:58:08:588 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:00:56:056 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:01:48:148 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:02:04:24 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:02:31:231 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:02:43:243 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:04:29:429 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:05:21:521 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:06:05:65 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:06:27:627 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:06:47:647 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:07:25:725 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:07:45:745 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:08:06:86 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:08:28:828 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:09:10:910 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:09:46:946 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:10:02:102 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:10:29:1029 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:10:44:1044 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:11:38:1138 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:12:21:1221 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:12:58:1258 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:14:02:142 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:14:17:1417 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:14:46:1446 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:15:14:1514 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:17:04:174 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:17:19:1719 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:17:40:1740 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:18:10:1810 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:18:31:1831 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:19:01:191 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:19:56:1956 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:20:11:2011 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:20:25:2025 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:20:45:2045 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:21:46:2146 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:22:17:2217 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:22:34:2234 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:22:48:2248 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:23:13:2313 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:23:47:2347 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:24:00:240 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:24:14:2414 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:25:03:253 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:25:18:2518 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:25:42:2542 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:26:33:2633 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:26:48:2648 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:27:21:2721 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:27:32:2732 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:27:58:2758 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:28:30:2830 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:28:50:2850 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:29:04:294 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:29:16:2916 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:30:18:3018 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:30:41:3041 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:31:28:3128 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:31:30:3130 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:31:33:3133 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "title"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "expected": "'FULL_TIME' | 'PART_TIME' | 'REMOTE' | 'FREELANCE'",[39m
+[31m    "received": "undefined",[39m
+[31m    "code": "invalid_type",[39m
+[31m    "path": [[39m
+[31m      "jobType"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "expected": "'INTERN' | 'JUNIOR' | 'MID' | 'SENIOR' | 'EXECUTIVE'",[39m
+[31m    "received": "undefined",[39m
+[31m    "code": "invalid_type",[39m
+[31m    "path": [[39m
+[31m      "experience"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "category"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "location"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "info"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "array",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "description"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "array",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "qualifications"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "array",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "benefits"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "boolean",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "isNegotiable"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:34:09:349 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:34:12:3412 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "custom",[39m
+[31m    "message": "Both salaryFrom and salaryTo are required when the job is not negotiable.",[39m
+[31m    "path": [[39m
+[31m      "salaryFrom",[39m
+[31m      "salaryTo"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:34:21:3421 [31merror[39m: [31mService error at ( createJob ) => Error: Job with current title already exist[39m
+2025-06-03 13:34:21:3421 [31merror[39m: [31mError occurred: Job with current title already exist[39m
+2025-06-03 13:35:49:3549 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:36:20:3620 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "custom",[39m
+[31m    "message": "Both salaryFrom and salaryTo are required when the job is not negotiable.",[39m
+[31m    "path": [[39m
+[31m      "salaryFrom",[39m
+[31m      "salaryTo"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:36:44:3644 [31merror[39m: [31mService error at ( createJob ) => Error: Job with current title already exist[39m
+2025-06-03 13:36:44:3644 [31merror[39m: [31mError occurred: Job with current title already exist[39m
+2025-06-03 13:36:54:3654 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "custom",[39m
+[31m    "message": "Both salaryFrom and salaryTo are required when the job is not negotiable.",[39m
+[31m    "path": [[39m
+[31m      "salaryFrom",[39m
+[31m      "salaryTo"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:37:21:3721 [31merror[39m: [31mService error at ( createJob ) => Error: Job with current title already exist[39m
+2025-06-03 13:37:21:3721 [31merror[39m: [31mError occurred: Job with current title already exist[39m
+2025-06-03 13:37:33:3733 [31merror[39m: [31mService error at ( getJobById ) => Error: Job not exist[39m
+2025-06-03 13:37:33:3733 [31merror[39m: [31mError occurred: Job not exist[39m
+2025-06-03 13:38:43:3843 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:38:47:3847 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:38:51:3851 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "custom",[39m
+[31m    "message": "Both salaryFrom and salaryTo are required when the job is not negotiable.",[39m
+[31m    "path": [[39m
+[31m      "salaryFrom",[39m
+[31m      "salaryTo"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:39:22:3922 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "custom",[39m
+[31m    "message": "Both salaryFrom and salaryTo are required when the job is not negotiable.",[39m
+[31m    "path": [[39m
+[31m      "salaryFrom",[39m
+[31m      "salaryTo"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 13:41:29:4129 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:42:19:4219 [31merror[39m: [31mService error at ( updateJob ) => Error: Job not exist[39m
+2025-06-03 13:42:19:4219 [31merror[39m: [31mError occurred: Job not exist[39m
+2025-06-03 13:43:08:438 [31merror[39m: [31mService error at ( updateJob ) => Error: Job Title already exist[39m
+2025-06-03 13:43:08:438 [31merror[39m: [31mError occurred: Job Title already exist[39m
+2025-06-03 13:43:49:4349 [31merror[39m: [31mService error at ( deleteJob ) => Error: Job not exist[39m
+2025-06-03 13:43:49:4349 [31merror[39m: [31mError occurred: Job not exist[39m
+2025-06-03 13:45:59:4559 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:46:17:4617 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:46:36:4636 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:48:16:4816 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:49:11:4911 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:49:42:4942 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 13:50:31:5031 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 14:25:26:2526 [32minfo[39m: [32mConnected to MongoDB[39m
+2025-06-03 14:41:38:4138 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-03 14:41:39:4139 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-03 14:41:59:4159 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-03 15:47:45:4745 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "validation": "regex",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Invalid ObjectId",[39m
+[31m    "path": [[39m
+[31m      "category"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 16:09:10:910 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-03 16:09:10:910 [31merror[39m: [31mError occurred: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2025-06-03 16:41:34:4134 [31merror[39m: [31mService error at ( createJob ) => ValidationError: info: Path `info` is required.[39m
+2025-06-03 16:41:34:4134 [31merror[39m: [31mError occurred: Job validation failed: info: Path `info` is required.[39m
+2025-06-03 16:41:39:4139 [31merror[39m: [31mService error at ( createJob ) => ValidationError: info: Path `info` is required.[39m
+2025-06-03 16:41:39:4139 [31merror[39m: [31mError occurred: Job validation failed: info: Path `info` is required.[39m
+2025-06-03 16:41:44:4144 [31merror[39m: [31mService error at ( createJob ) => ValidationError: info: Path `info` is required.[39m
+2025-06-03 16:41:44:4144 [31merror[39m: [31mError occurred: Job validation failed: info: Path `info` is required.[39m
+2025-06-03 17:08:10:810 [32minfo[39m: [32mConnected to MongoDB[39m

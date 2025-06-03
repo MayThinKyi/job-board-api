@@ -61,11 +61,11 @@ const jobSchema = new mongoose.Schema(
 );
 
 jobSchema.pre("validate", function (next) {
-  if (this.isNegotiable) {
+  if (!this.isNegotiable) {
     if (!this.salaryFrom || !this.salaryTo) {
       return next(
         new Error(
-          "Both salaryFrom and salaryTo are required when it is Negotiable.",
+          "Both salaryFrom and salaryTo are required when it is not Negotiable.",
         ),
       );
     }
