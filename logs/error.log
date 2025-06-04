@@ -304,3 +304,301 @@
 2025-06-03 16:41:39:4139 [31merror[39m: [31mError occurred: Job validation failed: info: Path `info` is required.[39m
 2025-06-03 16:41:44:4144 [31merror[39m: [31mService error at ( createJob ) => ValidationError: info: Path `info` is required.[39m
 2025-06-03 16:41:44:4144 [31merror[39m: [31mError occurred: Job validation failed: info: Path `info` is required.[39m
+2025-06-03 22:10:27:1027 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:10:32:1032 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "email"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:10:43:1043 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "validation": "email",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Invalid email address",[39m
+[31m    "path": [[39m
+[31m      "email"[39m
+[31m    ][39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:10:49:1049 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:12:08:128 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "too_small",[39m
+[31m    "minimum": 8,[39m
+[31m    "type": "string",[39m
+[31m    "inclusive": true,[39m
+[31m    "exact": false,[39m
+[31m    "message": "Password must be at least 8 characters long",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ][39m
+[31m  },[39m
+[31m  {[39m
+[31m    "validation": "regex",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Password must contain at least one uppercase letter",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ][39m
+[31m  },[39m
+[31m  {[39m
+[31m    "validation": "regex",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Password must contain at least one lowercase letter",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ][39m
+[31m  },[39m
+[31m  {[39m
+[31m    "validation": "regex",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Password must contain at least one special character",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ][39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:12:46:1246 [31merror[39m: [31mService error at ( register ) => Error: Email already exist[39m
+2025-06-03 22:12:46:1246 [31merror[39m: [31mError occurred: Email already exist[39m
+2025-06-03 22:12:47:1247 [31merror[39m: [31mService error at ( register ) => Error: Email already exist[39m
+2025-06-03 22:12:47:1247 [31merror[39m: [31mError occurred: Email already exist[39m
+2025-06-03 22:13:02:132 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:13:13:1313 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "object",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:13:17:1317 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "email"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:13:27:1327 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "validation": "email",[39m
+[31m    "code": "invalid_string",[39m
+[31m    "message": "Invalid email address",[39m
+[31m    "path": [[39m
+[31m      "email"[39m
+[31m    ][39m
+[31m  },[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:13:32:1332 [31merror[39m: [31mError occurred: [[39m
+[31m  {[39m
+[31m    "code": "invalid_type",[39m
+[31m    "expected": "string",[39m
+[31m    "received": "undefined",[39m
+[31m    "path": [[39m
+[31m      "password"[39m
+[31m    ],[39m
+[31m    "message": "Required"[39m
+[31m  }[39m
+[31m][39m
+2025-06-03 22:13:44:1344 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-03 22:13:44:1344 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-03 22:36:38:3638 [31merror[39m: [31mService error at ( register ) => Error: Email already exist[39m
+2025-06-03 22:36:38:3638 [31merror[39m: [31mError occurred: Email already exist[39m
+2025-06-03 22:37:43:3743 [31merror[39m: [31mService error at ( register ) => Error: Email already exist[39m
+2025-06-03 22:37:43:3743 [31merror[39m: [31mError occurred: Email already exist[39m
+2025-06-03 22:38:14:3814 [31merror[39m: [31mService error at ( register ) => Error: Email already exist[39m
+2025-06-03 22:38:15:3815 [31merror[39m: [31mError occurred: Email already exist[39m
+2025-06-03 23:01:05:15 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-03 23:01:05:15 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-03 23:01:17:117 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-03 23:01:17:117 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-03 23:01:19:119 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-03 23:01:19:119 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-03 23:01:20:120 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-03 23:01:20:120 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-04 14:40:02:402 [31merror[39m: [31mError occurred: Cannot destructure property '_id' of 'req.user' as it is undefined.[39m
+2025-06-04 14:47:09:479 [31merror[39m: [31mService error at ( login ) => Error: Email not exist[39m
+2025-06-04 14:47:09:479 [31merror[39m: [31mError occurred: Email not exist[39m
+2025-06-04 15:27:59:2759 [31merror[39m: [31mService error at ( login ) => Error: Password is invalid[39m
+2025-06-04 15:27:59:2759 [31merror[39m: [31mError occurred: Password is invalid[39m
+2025-06-04 17:17:55:1755 [31merror[39m: [31mService error at ( updateUserInfo ) => CastError: Cast to embedded failed for value "{[39m
+[31m  position: 'Junior Frontend Developer',[39m
+[31m  companyName: 'Delight Myanmar',[39m
+[31m  jobType: 'FULL_TIME',[39m
+[31m  country: 'Myanmar',[39m
+[31m  currentlyWorking: true,[39m
+[31m  from: '2024-01-01',[39m
+[31m  to: 'Present',[39m
+[31m  description: ''[39m
+[31m}" (type Object) at path "experience" because of "CastError"[39m
+2025-06-04 17:17:55:1755 [31merror[39m: [31mError occurred: Cast to embedded failed for value "{[39m
+[31m  position: 'Junior Frontend Developer',[39m
+[31m  companyName: 'Delight Myanmar',[39m
+[31m  jobType: 'FULL_TIME',[39m
+[31m  country: 'Myanmar',[39m
+[31m  currentlyWorking: true,[39m
+[31m  from: '2024-01-01',[39m
+[31m  to: 'Present',[39m
+[31m  description: ''[39m
+[31m}" (type Object) at path "experience" because of "CastError"[39m
+2025-06-04 19:07:54:754 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:07:54:754 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:07:54:754 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:07:54:754 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:19:819 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:19:819 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:20:820 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:20:820 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:22:822 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:22:822 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:26:826 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:26:826 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:44:844 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:44:844 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:08:45:845 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:08:45:845 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:09:04:94 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:09:04:94 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:09:11:911 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:09:11:911 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:09:49:949 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:09:49:949 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:09:50:950 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:09:50:950 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:09:52:952 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:09:52:952 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:10:03:103 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:10:03:103 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:10:16:1016 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:10:16:1016 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:10:17:1017 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:10:17:1017 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:10:19:1019 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:10:19:1019 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:10:23:1023 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:10:23:1023 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:09:119 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:09:119 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:10:1110 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:10:1110 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:13:1113 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:13:1113 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:27:1127 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:27:1127 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:41:1141 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:41:1141 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:42:1142 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:42:1142 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:11:44:1144 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:11:44:1144 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:12:05:125 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:12:05:125 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:12:17:1217 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:12:17:1217 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:12:38:1238 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:12:38:1238 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:12:38:1238 [31merror[39m: [31mService error at ( getMe ) => Error: User not exist[39m
+2025-06-04 19:12:38:1238 [31merror[39m: [31mError occurred: User not exist[39m
+2025-06-04 19:13:24:1324 [31merror[39m: [31mService error at ( login ) => Error: Password is invalid[39m
+2025-06-04 19:13:24:1324 [31merror[39m: [31mError occurred: Password is invalid[39m
+2025-06-04 20:20:59:2059 [31merror[39m: [31mService error at ( login ) => Error: Password is invalid[39m
+2025-06-04 20:20:59:2059 [31merror[39m: [31mError occurred: Password is invalid[39m
+2025-06-04 20:29:31:2931 [31merror[39m: [31mService error at ( login ) => Error: Password is invalid[39m
+2025-06-04 20:29:31:2931 [31merror[39m: [31mError occurred: Password is invalid[39m
+2025-06-04 22:08:17:817 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:08:24:824 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:08:42:842 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:08:46:846 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:10:02:102 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:10:19:1019 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:10:20:1020 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:10:23:1023 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:10:32:1032 [31merror[39m: [31mError occurred: Cannot populate path `jobs` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:11:21:1121 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:11:26:1126 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:19:1319 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:21:1321 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:23:1323 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:30:1330 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:31:1331 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:33:1333 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:13:37:1337 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:14:16:1416 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:14:17:1417 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:14:19:1419 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:14:23:1423 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:17:41:1741 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:17:44:1744 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2025-06-04 22:17:48:1748 [31merror[39m: [31mError occurred: Cannot populate path `job` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m

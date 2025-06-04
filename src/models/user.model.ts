@@ -1,4 +1,4 @@
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 import { validateEmail, validatePhone } from "../utils/validate";
 
 const userSchema = new mongoose.Schema(
@@ -16,52 +16,52 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    role: {
+      type: String,
+      enum: ["admin", "user"],
+      default: "user",
+    },
     personalInfo: {
-      firstName: { type: String, required: true },
-      lastName: { type: String, required: true },
+      firstName: { type: String },
+      lastName: { type: String },
       phone: {
         type: String,
-        required: true,
         validate: {
           validator: validatePhone,
           message: (props: any) =>
             `${props.value} is not a valid Myanmar Phone Number!`,
         },
       },
-      dateOfBirth: { type: Date, required: true },
+      dateOfBirth: { type: Date },
       occupation: { type: String },
       gender: {
         type: String,
         enum: ["MALE", "FEMALE", "OTHER"],
-        required: true,
       },
-      country: { type: String, required: true },
-      city: { type: String, required: true },
-      address: { type: String, required: true },
-      postalCode: { type: Number, required: true },
-      linkedinUrl: { type: String, required: true },
+      country: { type: String },
+      city: { type: String },
+      address: { type: String },
+      postalCode: { type: Number },
+      linkedinUrl: { type: String },
     },
     experience: [
       {
-        position: { type: String, required: true },
-        companyName: { type: String, required: true },
+        position: { type: String },
+        companyName: { type: String },
         jobType: {
           type: String,
           enum: ["FULL_TIME", "PART_TIME", "REMOTE", "FREELANCE"],
-          required: true,
         },
-        country: { type: String, required: true },
+        country: { type: String },
         currentlyWorking: { type: Boolean },
-        from: { type: Date, required: true },
+        from: { type: Date },
         to: {
           type: Date,
-          required: true,
           validate: {
             validator: function (this: any, value: string) {
               if (this.currentlyWorking) {
                 return value === "Present";
               } else {
-                // Try converting to Date
                 const date = new Date(value);
                 return !isNaN(date.getTime());
               }
@@ -73,17 +73,16 @@ const userSchema = new mongoose.Schema(
             },
           },
         },
-        description: { type: String, required: true },
+        description: { type: String },
       },
     ],
     education: [
       {
-        qualification: { type: String, required: true },
-        institution: { type: String, required: true },
-        fieldOfStudy: { type: String, required: true },
+        qualification: { type: String },
+        institution: { type: String },
+        fieldOfStudy: { type: String },
         educationLevel: {
           type: String,
-          required: true,
           enum: [
             "DOCTORATE",
             "MASTER",
@@ -93,52 +92,52 @@ const userSchema = new mongoose.Schema(
             "OTHER",
           ],
         },
-        country: { type: String, required: true },
-        from: { type: Date, required: true },
-        to: { type: Date, required: true },
-        description: { type: String, required: true },
+        country: { type: String },
+        from: { type: Date },
+        to: { type: Date },
+        description: { type: String },
       },
     ],
     skills: [
       {
-        skill: { type: String, required: true },
+        skill: { type: String },
         proficiency: {
           type: String,
-          required: true,
           enum: ["HIGH", "MODERATE", "LOW"],
         },
       },
     ],
     languages: [
       {
-        language: { type: String, required: true },
+        language: { type: String },
         proficiency: {
           type: String,
-          required: true,
           enum: ["HIGH", "MODERATE", "LOW"],
         },
       },
     ],
     cv: {
       type: String,
-      required: true,
     },
     resume: {
       type: String,
-      required: true,
     },
     overview: {
       aboutYourself: { type: String, minLength: 20, maxLength: 2000 },
       whyShouldWeHireYou: { type: String, minLength: 20, maxLength: 2000 },
     },
-    applications: {
-      type: [mongoose.Schema.Types.ObjectId],
-      ref: "application",
-    },
-    favourites: {
-      type: [mongoose.Schema.Types.ObjectId],
-      ref: "job",
-    },
+    applications: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Application",
+      },
+    ],
+    favourites: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Job",
+      },
+    ],
   },
   { timestamps: true },
 );

@@ -9,7 +9,11 @@ import { startDB } from "./database/db";
 import customerRouter from "./routes/customer.route";
 import categoryRouter from "./routes/category.route";
 import jobRouter from "./routes/job.route";
+import authRouter from "./routes/auth.route";
+import userRouter from "./routes/user.route";
+
 import setupSwagger from "./config/swaggerConfig";
+import { authenticateJWT } from "./middlewares/auth.middleware";
 
 dotenv.config();
 
@@ -33,6 +37,8 @@ setupSwagger(app);
 app.use("/api/customers", customerRouter);
 app.use("/api/categories", categoryRouter);
 app.use("/api/jobs", jobRouter);
+app.use("/api/auth", authRouter);
+app.use("/api/user", authenticateJWT, userRouter);
 
 app.disable("x-powered-by");
 
